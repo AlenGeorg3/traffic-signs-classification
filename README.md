@@ -1,4 +1,4 @@
-# Sales Insights Dashboard using PowerBI
+# Traffic Sign Classifier using CNN
 
 The project aims to develop a Convolutional Neural Network(CNN) model to classify traffic sign images using Keras and Python. The dataset used for this project is the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which consists of more than 50,000 images of 43 different traffic signs.
 
