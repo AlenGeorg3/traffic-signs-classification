@@ -7,3 +7,9 @@ The project begins with data preprocessing, which includes resizing the images, 
 To optimize the model's performance, various hyperparameters, such as learning rate, batch size, and the number of epochs, are tuned using grid search. Finally, the model is evaluated on the testing dataset and the classification accuracy is reported.
 
 The project's outcome is a trained CNN model that can accurately classify traffic sign images. This model can be deployed in real-world scenarios, such as autonomous vehicles, to assist in the detection and recognition of traffic signs.
+
+![image](https://user-images.githubusercontent.com/66356947/229356361-40a4ff82-03e0-4c41-bfa4-f7d29473aac5.png)
+
+![image](https://user-images.githubusercontent.com/66356947/229356351-7da1eb63-50af-4adf-9cc2-f657e8f49cc7.png)
+
+![image](https://user-images.githubusercontent.com/66356947/229356331-aff0e485-ac2a-442e-ab38-0e76ae94aa25.png)
